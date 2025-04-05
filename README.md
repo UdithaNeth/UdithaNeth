@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udithaneth&label=Profile%20views&color=0e75b6&style=flat" alt="udithaneth" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udithaneth" alt="udithaneth" /></a> </p>
-
 - 🌱 I’m currently learning **Springboot**
 
 - 📫 How to reach me **udithathennakoon32@gmail.com**
